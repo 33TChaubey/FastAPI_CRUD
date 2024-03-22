@@ -17,7 +17,7 @@ async def get_data():
     return {"data": "hello world"}
 
 try:
-    conn = psycopg2.connect(host='localhost', database='company', user='postgres', password='root', cursor_factory=RealDictCursor)
+    conn = psycopg2.connect(host='localhost', database='@****', user='@****', password='@****', cursor_factory=RealDictCursor)
     cursor = conn.cursor()
     print("database connection established")
 except Exception as error:
