@@ -21,8 +21,8 @@
 
 - Python 3.7+
 - FastAPI
-- Uvicorn (or any ASGI server)
-- SQLAlchemy (if using a database)
+- Uvicorn 
+- SQLAlchemy 
 
 ## 🚀 Installation 🚀
 
