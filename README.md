@@ -29,7 +29,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/FastAPI_CRUD.git
+    git clone https://github.com/33tchaubey/FastAPI_CRUD.git
     ```
 
 2. Navigate to the project directory:
@@ -74,5 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author 👩‍💻
 
-👨‍💻 [Your Name](https://github.com/yourusername)
+👨‍💻 [Your Name](https://github.com/33tchaubey)
 
